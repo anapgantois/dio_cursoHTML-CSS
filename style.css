@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(242, 230, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 1140px;
+    margin: auto;
+}
+
+a{
+    text-decoration:underline;
+    color: black;
+}
+
+#title {
+    color: rgb(171, 88, 255);
+    font-size: 40px;
+}
+
+.subtitle {
+    color: rgb(205, 156, 255);
+    margin: 0px;
+    margin-bottom: 15px;
+    font-size: 30px
+}
+
+.subtitle2 {
+    color: rgb(205, 156, 255);
+    margin: 0px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.bio {
+    background-color: white;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    border: 2px solid rgb(189, 123, 255);
+    border-radius: 20px;
+    margin: 15px;
+}
+
+.content {
+    font-size: 16px;
+    margin-bottom: 15px;
+    text-align: justify;
+
+}
+
+.image_bio {
+    margin-bottom: 15px;
+    border-radius: 20px
+}
+.contact_list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.photo {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
